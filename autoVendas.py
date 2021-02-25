@@ -1,4 +1,4 @@
-
+#simulador de vendas
 import cx_Oracle
 import pandas as pd
 import random 
